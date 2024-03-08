@@ -15,3 +15,6 @@ Materiały z zajęć Statystyka matematyczna prowadzonych na wydziale Matematyki
 | 7. | 05-06-2024 | | |
 | 8. | 12-06-2024 | | |
 
+## System oceniania
+Na laboratorium można zdobyć maksymalnie **10 pkt.**
+W trakcie zajęć przprowadzone będzie 5 kartkówek, każda po 2 pkt.
