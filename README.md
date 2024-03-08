@@ -1,2 +1,2 @@
-# SM_2024
-Repozytorium przeznaczone na materiały prezentowane w trakcie laboratorium ze Statystyki Matematycznej w roku akademickim 2023/2024
+# Statystyka matematyczna 2024L
+Strona laboratorium z Statystyki Matematycznej na wydziale MiNI PW w roku 2024.
